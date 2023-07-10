@@ -1,2 +1,4 @@
 # Ml_classification_regression
 Hi ! all, In this repository detailly tell about problem identification and AI creating according to the problem statemnt
+Please go through the problem statement carefully and what is mainly is going to solve
+A company works with number of employees, all the works are dependents on the employees. Even if one of the employees resign the job immediatelythenassigned work will be not finished at the time, so delivery of the project to the clients will be delayed. Company planned to make solution for this, they want to know which employee may resign next. If they know previously, they can arrangealternative to avoid such problem. As an AI Engineer you mustgive Solution to this.A)How will you achieve this in AI?B)Find out the 3 -Stage of Problem IdentificationC)Name the projectD)Create the dummy Dataset.
