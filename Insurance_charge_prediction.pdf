@@ -1,0 +1,22 @@
+1) Identified Problem :
+   * Insurance Company loss prevention in Charges 
+   * Early detection before the customer resigns 
+   
+   
+2) No of Rows and Columns :
+   * 1339 Rows
+   * 5 columns   
+   
+
+3) Preprocessed Steps involved :
+   * Columns SPlitting
+   * Extending Rows
+   * Labelling Features
+   * spliiting Features 
+   * Normalizing Features
+   
+   
+4) Here we develop the ML model using logistic regression
+
+
+5) Proper Documentation is provided in the model.ipnb file 
