@@ -1,4 +1,10 @@
 # Ml_classification_regression
 Hi ! all, In this repository detailly tell about problem identification and AI creating according to the problem statemnt
 Please go through the problem statement carefully and what is mainly is going to solve by our AI.
-A company works with number of employees, all the works are dependents on the employees. Even if one of the employees resign the job immediatelythenassigned work will be not finished at the time, so delivery of the project to the clients will be delayed. Company planned to make solution for this, they want to know which employee may resign next. If they know previously, they can arrangealternative to avoid such problem. As an AI Engineer you mustgive Solution to this.A)How will you achieve this in AI?B)Find out the 3 -Stage of Problem IdentificationC)Name the projectD)Create the dummy Dataset.
+A client’s requirement is, he wants to predict the insurance charges based on the several parameters. The Client has provided the dataset of thesame.As a data scientist, you mustdevelop amodel which will predict the insurance charges.                
+   1) Identify your problem statement
+   2) Tell basic info about the dataset (Total number of rows, columns)
+   3) Mention the pre-processing method if you’re doing any (like converting string to number –nominal data)
+   4) Develop a good model with r2_score.You can use any machine learning algorithm; you can create many models.Finally, you have to come up with final model.
+   5) All the research values (r2_score of the models) should be documented. (You can make tabulation or screenshot of the results.
+   6) Mention your final model, justify why u have chosen the same
