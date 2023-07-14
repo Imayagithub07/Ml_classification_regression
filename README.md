@@ -1,9 +1,9 @@
 # Ml_classification_regression
-Hi ! all, In this repository I detailly tell about problem identification and creating AI according to the problem statemnt
+Hi ! all, In this repository I detailly tell about the problem identification and creating AI according to the problem statemnt
 Please go through the problem statement carefully and Read the insurance_charge_prediction.pdf
 
 
-A client’s requirement is, he wants to predict the insurance charges based on the several parameters. The Client has provided the dataset of thesame.As a data scientist, you mustdevelop amodel which will predict the insurance charges.                
+A client’s requirement is, he wants to predict the insurance charges based on the several parameters. The Client has provided the dataset of the same.As a data scientist, you must develop a model which will predict the insurance charges.                
    1) Identify your problem statement
    2) Tell basic info about the dataset (Total number of rows, columns)
    3) Mention the pre-processing method if you’re doing any (like converting string to number –nominal data)
